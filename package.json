@@ -1,0 +1,42 @@
+{
+    "name": "Training_Javascript_2021",
+    "version": "1.0.0",
+    "description": "![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)",
+    "main": "index.js",
+    "dependencies": {
+        "error-ex": "^1.3.2",
+        "hard-rejection": "^2.1.0",
+        "has": "^1.0.3",
+        "has-ansi": "^2.0.0",
+        "has-flag": "^3.0.0",
+        "has-unicode": "^2.0.1",
+        "indent-string": "^4.0.0",
+        "is-arrayish": "^0.2.1",
+        "inherits": "^2.0.4",
+        "is-core-module": "^2.8.0",
+        "is-plain-obj": "^1.1.0",
+        "isexe": "^2.0.0",
+        "is-typedarray": "^1.0.0",
+        "isarray": "^1.0.0",
+        "isstream": "^0.1.2",
+        "js-base64": "^2.6.4"
+    },
+    "devDependencies": {
+        "node-sass": "^6.0.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "compile:sass": "node-sass styles/scss/variable.scss styles/css/styles.css -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/phamtienthao1505/Training_Javascript_2021.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/phamtienthao1505/Training_Javascript_2021/issues"
+    },
+    "homepage": "https://github.com/phamtienthao1505/Training_Javascript_2021#readme"
+}
